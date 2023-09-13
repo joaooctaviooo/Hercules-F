@@ -1,6 +1,6 @@
 Olá, meu nome é Hércules. 
 Atualmente sou discente do curso de Ciências da computação na UFC de Crateús.
-Sou meio tímido, mas sempre disposto a novas experiências.
+Sempre buscandp aprender mais e solucionar problemas com a ajuda da tacnologia.
 
 <!---
 Hercules-F/Hercules-F is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
